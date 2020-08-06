@@ -1,5 +1,5 @@
 # Vib Analysis
-
+![Screen_1](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png)
 
 ## Requirements
 
