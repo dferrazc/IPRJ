@@ -3,7 +3,7 @@
 ![contributions](https://img.shields.io/badge/Contribution-Welcome-brightgreen&?style=flat-square)
 # user interface
 Some translating are going on right now.. every help is appreciated! :)
-
+<div>
 Sensor selection screen
 
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="left" height="400px">
@@ -14,6 +14,7 @@ Suspension response screen
 
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png" align="left" height="400px">
 
+</div>
 
 ## TODOS
 1. Translate everything from portuguese -> english
