@@ -7,13 +7,13 @@ double DAlfa = 0;
 double We2 = 0 , WAB = 0;
 double Alfa = 0 , Beta = 0;
 
-#define mPi acos ( -1)
-#define Yel " \ x1B [33 m "
-#define Res " \ x1B [0;0 m "
-#define Gre " \ x1B [32 m "
-#define Red " \ x1b [31;1 m "
-#define Ne1 " \ x1b [30;47 m "
-#define Ne2 " \ x1b [37 m "
+#define mPi acos(-1)
+#define Yel "\x1B [33m"
+#define Res "\x1B [0;0m"
+#define Gre "\x1B [32m"
+#define Red "\x1b [31;1m"
+#define Ne1 "\x1b [30;47m"
+#define Ne2 "\x1b [37m"
 void main ()
 {
   printf ( " Digite os valores na " Red " seguinte ordem " Res " AB , BD , CD , Lf , Me, Ml , Mc , D1 , D2 , NAlfa , Lm1 , Lm2 , Lm3 , Lm4 , Lm5 separados por " Red " espa ç o "
