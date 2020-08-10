@@ -4,18 +4,29 @@
 # user interface
 Some translating are going on right now.. every help is appreciated! :)
 <div>
-Sensor selection screen
-
-<img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="left" height="400px">
-
-<img src="https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif" align="left" height="400px">
+  
+<p align="left">Sensor selection screen</p>
+  
+<a>
+<img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="center" height="400px">
+</a>
+  
+<a>
+<img src="https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif" align="center" height="400px">
+</a>
 
 Suspension response screen
-
-<img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png" align="left" height="400px">
-
+  
+<a>
+<img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png" align="center" height="400px">
+</a>
 </div>
 
+<br>
+<br>
+
+<p align = "left">
+  
 ## TODOS
 1. Translate everything from portuguese -> english
 2. Add support for n sensors
@@ -24,10 +35,11 @@ Suspension response screen
 5. Change the Ui, a more appealing gui would be interesting
 6. Fix scrolling above PlotWidgets
 7. 
+</p>
 
 ## Requirements
-
 You can also check the respective requirements.txt file
+
 ### [Python Version]
 |   Package | Version|
 |-----------|--------|
