@@ -1,14 +1,26 @@
+![maintained](https://img.shields.io/maintenance/yes/2020?label=Maintained?&style=flat-square)
+![ready](https://img.shields.io/maintenance/no/2020?label=Ready%20to%20be%20Released?&style=flat-square)
+![contributions](https://img.shields.io/badge/Contribution-Welcome-brightgreen&?style=flat-square)
 # user interface
 Some translating are going on right now.. every help is appreciated! :)
 
 Sensor selection screen
-![Screen_1](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png)
+
+<img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="left" height="400px">
 
 ![GIF_1](https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif)
 
 Suspension response screen
 ![Screen_2](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png)
 
+## TODOS
+1. Translate everything from portuguese -> english
+2. Add support for n sensors
+3. Rewrite the code so it can be more 'pythonic' and separate everything in different classes
+4. Add plugin support
+5. Change the Ui, a more appealing gui would be interesting
+6. Fix scrolling above PlotWidgets
+7. 
 
 ## Requirements
 
