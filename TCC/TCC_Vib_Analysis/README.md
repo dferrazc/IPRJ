@@ -1,8 +1,11 @@
 ![maintained](https://img.shields.io/maintenance/yes/2020?label=Maintained?&style=flat-square)
 ![ready](https://img.shields.io/maintenance/no/2020?label=Ready%20to%20be%20Released?&style=flat-square)
 ![contributions](https://img.shields.io/badge/Contribution-Welcome-brightgreen&?style=flat-square)
-# user interface
+
 I did a rough translation, sorry if you find some mistranslated word.. i'll be reviewing it soon! :)
+
+# user interface
+
 <div>
   
 <p align="left"><b>Board selection screen</b></p>
