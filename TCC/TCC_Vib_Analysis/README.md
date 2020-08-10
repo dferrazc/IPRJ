@@ -4,6 +4,8 @@ Sensor selection screen
 
 Suspension response screen
 ![Screen_2](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png)
+
+![GIF_1](https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif)
 ## Requirements
 
 You can also check the respective requirements.txt file
