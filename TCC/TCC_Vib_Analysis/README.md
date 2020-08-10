@@ -4,10 +4,12 @@ Some translating are going on right now.. every help is appreciated! :)
 Sensor selection screen
 ![Screen_1](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png)
 
+![GIF_1](https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif)
+
 Suspension response screen
 ![Screen_2](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png)
 
-![GIF_1](https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif)
+
 ## Requirements
 
 You can also check the respective requirements.txt file
