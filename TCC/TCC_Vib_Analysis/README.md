@@ -26,7 +26,7 @@ Suspension response screen
 
 <p align = "left">
   
-## TODOS
+## TODOs
 1. Translate everything from portuguese -> english
 2. Add support for n sensors
 3. Rewrite the code so it can be more 'pythonic' and separate everything in different classes
