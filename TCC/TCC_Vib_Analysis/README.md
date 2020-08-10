@@ -12,7 +12,7 @@ Some translating are going on right now.. every help is appreciated! :)
 </a>
   
 <a>
-<img src="https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif" align="center" height="400px">
+<img src="https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif" align="center" height="417px">
 </a>
 
 Suspension response screen
@@ -21,9 +21,6 @@ Suspension response screen
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png" align="center" height="400px">
 </a>
 </div>
-
-<br>
-<br>
 
 <p align = "left">
   
@@ -34,7 +31,6 @@ Suspension response screen
 4. Add plugin support
 5. Change the Ui, a more appealing gui would be interesting
 6. Fix scrolling above PlotWidgets
-7. 
 </p>
 
 ## Requirements
