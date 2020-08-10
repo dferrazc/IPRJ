@@ -9,11 +9,13 @@ Some translating are going on right now.. every help is appreciated! :)
   
 <a>
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="center" height="400px">
-</a>
+</a>     
+
   
 <a>
 <img src="https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif" align="center" height="417px">
-</a>
+</a>      
+
 
 Suspension response screen
   
