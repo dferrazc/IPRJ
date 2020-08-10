@@ -8,10 +8,12 @@ Sensor selection screen
 
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="left" height="400px">
 
-![GIF_1](https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif)
+<img src="https://github.com/dferrazc/IPRJ/blob/master/TCC/TCC_Vib_Analysis/RTPA.gif" align="left" height="400px">
 
 Suspension response screen
-![Screen_2](https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png)
+
+<img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png" align="left" height="400px">
+
 
 ## TODOS
 1. Translate everything from portuguese -> english
