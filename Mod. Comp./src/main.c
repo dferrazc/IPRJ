@@ -17,8 +17,8 @@ double Alfa = 0 , Beta = 0;
 void main ()
 {
   printf ( " Digite os valores na " Red " seguinte ordem " Res " AB , BD , CD , Lf , Me, Ml , Mc , D1 , D2 , NAlfa , Lm1 , Lm2 , Lm3 , Lm4 , Lm5 separados por " Red " espa ç o "
-Res " e pressione ENTER : \ n " Ne2 ) ;
-  scanf ( " % lf % lf % lf % lf % lf % lf % lf % lf % lf % lf % lf % lf % lf % lf % lf ", & AB , & BD , & CD , & Lf , & Me , & Ml , & Mc , & D1 , & D2 , & NAlfa , & Lm [0] , & Lm
+Res " e pressione ENTER : \n " Ne2 ) ;
+  scanf ( " %lf %lf %lf %lf %lf %lf %lf %lf %lf %lf %lf %lf %lf %lf %lf ", & AB , & BD , & CD , & Lf , & Me , & Ml , & Mc , & D1 , & D2 , & NAlfa , & Lm [0] , & Lm
 [1] , & Lm [2] , & Lm [3] , & Lm [4]) ;
   We2 = ( Me * 9.81) /2;
   Ml = Ml *9.81;
