@@ -5,7 +5,7 @@
 Some translating are going on right now.. every help is appreciated! :)
 <div>
   
-<p align="left">Sensor selection screen</p>
+<p align="left"><b>Board selection screen</b></p>
   
 <a>
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_1.png" align="center" height="400px">
@@ -17,7 +17,8 @@ Some translating are going on right now.. every help is appreciated! :)
 </a>      
 
 
-Suspension response screen
+<p align="left"><b>Suspension response screen</b></p>
+  
   
 <a>
 <img src="https://raw.githubusercontent.com/dferrazc/IPRJ/master/TCC/TCC_Vib_Analysis/Vib_Screen_2.png" align="center" height="400px">
